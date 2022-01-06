@@ -45,8 +45,6 @@
 
 [17] Baf
 
-[17] Baf
-
 [18] Badmod
 
 [19] Devploit
