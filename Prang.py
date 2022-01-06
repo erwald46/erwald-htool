@@ -14,7 +14,10 @@ os.system("clear")
 os.system("toilet -f mono12 -F metal prang")
 print("""
 
-Coder by Zone
+Coder By BerkTruy.
+Instagram / Github - @BerkTruy
+
+ÇOKLU HACK ARAÇLARI TOOLU
 
 
 [1] Impulse              [11] Instagram-Tools
