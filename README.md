@@ -1,8 +1,15 @@
 # root@zone
  
+ 
+ 
+ 
  Çoklu hack araçlarından oluşan bir tooldur.
  İçerisinde oldukça işe yarar programlar bulunuyor.
  Örnek verecek olursak,
+ 
+ 
+ 
+ 
  
 [1] Impulse              [11] Instagram-Tools
 [2] Shrzon               [12] Phone Infoga
@@ -15,12 +22,35 @@
 [9] Luzymux              [19] Devploit
 [10] Shark               [20] Auxsacn
 
+
+
+
+
 [TOOL NASIL KURULUR?]
+
+
+
+
+
+
 
 # git clone https://github.com/BerkTruy/Zone-Prang
 
+
+
+
+
+
 # cd Zone-Prang
 
+
+
+
+
 # python3 Prang.py
+
+
+
+
 
 KURULUM TAMAMLANDI.
