@@ -1,1 +1,1 @@
-# Zone-Prang
+# root@zone
