@@ -26,7 +26,7 @@
 
 
 
-[TOOL NASIL KURULUR?]
+# [TOOL NASIL KURULUR?]
 
 
 
@@ -34,20 +34,20 @@
 
 
 
-# git clone https://github.com/BerkTruy/Zone-Prang
+* git clone https://github.com/BerkTruy/Zone-Prang
 
 
 
 
 
 
-# cd Zone-Prang
+* cd Zone-Prang
 
 
 
 
 
-# python3 Prang.py
+* python3 Prang.py
 
 
 
